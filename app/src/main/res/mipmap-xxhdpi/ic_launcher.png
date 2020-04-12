@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="BookmarkManager">
+        <bookmark url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="1ac09a80-5393-48c0-b605-8a69771b8b0e" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="DefaultGradleProjectSettings">
+        <option
+            name="isMigrated"
+            value="true" />
+    </component>
+    <component
+        name="ExecutionTargetManager"
+        SELECTED_TARGET="Pixel_3a_XL_API_29" />
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/Mitiku_Iyosiyas_S1803446/coursework/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="4267">
+                            <caret
+                                column="39"
+                                line="273"
+                                selection-end-column="39"
+                                selection-end-line="273"
+                                selection-start-column="39"
+                                selection-start-line="273" />
+                            <folding>
+                                <element
+                                    expanded="true"
+                                    signature="imports" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="255">
+                            <caret
+                                column="40"
+                                lean-forward="true"
+                                line="15"
+                                selection-end-column="40"
+                                selection-end-line="15"
+                                selection-start-column="40"
+                                selection-start-line="15" />
+                        </state>
+                    </provider>
+                    <provider editor-type-id="android-designer2" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="153">
+                            <caret
+                                lean-forward="true"
+                                line="9"
+                                selection-end-line="9"
+                                selection-start-line="9" />
+                        </state>
+                    </provider>
+                    <provider editor-type-id="android-designer2" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="17">
+                            <caret
+                                column="4"
+                                lean-forward="true"
+                                line="1"
+                                selection-end-column="52"
+                                selection-end-line="2"
+                                selection-start-column="4"
+                                selection-start-line="1" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="

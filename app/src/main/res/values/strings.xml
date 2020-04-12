@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EarthQuake-S1803449</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="detailsMap">detailsMap</string>
+    <string name="view_details">View Details</string>
+    <string name="filter">Filter</string>
+    <string name="refresh">Refresh</string>
+</resources>

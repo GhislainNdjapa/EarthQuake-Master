@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  Author : Ghislain T Ndjapa
+      StudentID: S1803449-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/filterList"
+        android:title="@string/filter"
+        android:icon="@drawable/ic_filter"
+        app:showAsAction="always"/>
+
+    <item android:title="@string/refresh"
+        android:id="@+id/swipeToRefresh"
+        app:showAsAction="never"/>
+
+</menu>
